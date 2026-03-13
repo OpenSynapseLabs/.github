@@ -54,3 +54,5 @@ We believe the next generation of AI should be efficient, ethical, and accessibl
 ---
 
 *Built by humans. For humans.*
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18738608.svg)](https://doi.org/10.5281/zenodo.18738608)
