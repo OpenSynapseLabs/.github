@@ -47,7 +47,7 @@ We believe the next generation of AI should be efficient, ethical, and accessibl
 
 ## Contact
 
-📬 contact.opensynapselabs@gmail.com  
+📬 opensynapselabs@proton.me  
 🌐 [opensynapselabs.github.io](https://silksynapse.github.io/open-synapse-labs/)  
 🌱 Seed Round open — Summer 2026
 
