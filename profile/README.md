@@ -50,13 +50,77 @@ We are building a better one.
 | **ArchePhoton-35 (QPU-1)**| Photonic chip · MZI + GST PCM                    | 🟡 Architecture + simulation done |
 | **Synapse EAP-800**       | Humanoid robot with one-fluid architecture       | 🔵 Concept + full documentation |
 
-**Live demo of ARCHE3-7B** → [Open in HF Spaces](https://huggingface.co/spaces/OpenSynapseLabs/arche3-7b-demo)
+**Live Demo of ARCHE3-7B** → [Open in HF Spaces](https://huggingface.co/spaces/OpenSynapseLabs/arche3-7b-demo)
 
 ---
 
 ## Key algorithms (open part)
 
-**SmartRouter** — prevents routing collapse:
-```python
-aux_loss = (balance_coeff * load_balance_loss + 
-            entropy_coeff * entropy_penalty)
+**SmartRouter** — prevents routing collapse  
+**Dopamine Learning System** — autonomous curriculum  
+**Ethical Core** — hardwired at the architecture level
+
+Full technical details are in the architecture repository.
+
+---
+
+## About the code
+
+- The **demo** is fully public and runs in the cloud.  
+- The **full model code** (Dense Core, Hierarchical MoE, HiveStore, trainer, etc.) is **not public yet**.  
+- If you are serious about joining the project, write to me and I will share the private repository directly.
+
+The algorithms are the real IP. I protect them until I have a team.
+
+---
+
+## What I'm looking for
+
+**A team.** That's it.
+
+I am not looking for investors right now.  
+I am not looking for money.  
+I am looking for people who want to **realize these ideas** and build something truly new.
+
+My main goal is to turn this vision into reality — the autonomous intelligence, the photonic chip, and the one-fluid humanoid robot.
+
+Specifically needed:
+- **ML Research Engineer** — MoE, sparse training, PyTorch
+- **Photonic IC Designer** — MZI layout, GST/PCM, IMEC PDK
+- **RTL / RISC-V Engineer** — custom instructions, SparseAdamW hardware
+
+This is pre-seed. No salary right now. If that’s a problem — I completely understand.
+
+If you want to build something that matters, write to me.
+
+📬 **opensynapselabs@proton.me**
+
+---
+
+## Roadmap
+
+**Now — Summer 2026**  
+- ARCHE3-35B full training  
+- ArchePhoton-35 tape-out preparation  
+- Provisional patent filing
+
+**2027**  
+- First silicon of AP35-Ω1  
+- ARCHE3-35B running on photonic hardware
+
+**2028+**  
+- Synapse EAP-800 (first one-fluid humanoid)
+
+---
+
+## Links
+
+- 📊 [Benchmarks](https://github.com/OpenSynapseLabs/arche3-benchmarks)
+- 🏗 [Architecture](https://github.com/OpenSynapseLabs/arche3-architecture)
+- 📄 [Preprint on Zenodo](https://doi.org/10.5281/zenodo.18738608)
+- 🌐 [Website](https://silksynapse.github.io/open-synapse-labs/)
+- 📬 opensynapselabs@proton.me
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18738608.svg)](https://doi.org/10.5281/zenodo.18738608)
+
+*Built by a human. For humans.*
