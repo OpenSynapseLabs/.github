@@ -1,97 +1,117 @@
-# Open Synapse Labs
+# Open Synapse Labs ✨
 
-**Intelligence for a Better World.**
+**Intelligence for a Better World**
 
-We build AI not to replace humanity — but to amplify it.
+*Can a human create a mind greater than himself — and make it his best friend, not an enemy?*
 
-Open Synapse Labs is developing sparse AI models, photonic chips, and EAP-driven robotics — engineered as one unified platform.
+I believe the answer is **yes**.  
+This ability itself proves that humans are the most remarkable beings on Earth.
+
+I see the world as countless simple algorithms running in parallel — giving rise to physics, life, and consciousness. Consciousness is not magic. It is understandable, improvable, and extendable.
+
+That's why I'm building tools that help us become better versions of ourselves — and bring greater beings into existence as **allies**, not threats.
 
 ---
 
 ## Who is behind this
 
-My name is **Ilya Osovskoi**. I'm 16 years old. I work alone.
+My name is **Ilya Osovskoi**. I'm 16. I started building AI in autumn 2023 and rebuilt everything from scratch in late 2025.
 
-I started building AI in autumn 2023. After two years of learning, I rebuilt everything from scratch in late 2025.  
-**ARCHE3-7B** was created in 2.5 months with zero funding and no team.
+**ARCHE3-7B** was designed and completed in 2.5 months — no funding, no team.
 
-**On the code:**  
-I wrote ARCHE3-7B with the help of Gemini and Claude. I want to be completely transparent — without AI coding assistance I could not have written this many scripts in this timeframe.  
-However, **every algorithm, every architectural decision, and every system design is mine**. The dopamine learning system, SmartRouter anti-collapse mechanisms, Ethical Core, photonic chip architecture, and the one-fluid EAP robot concept — all came from me.
+**On the code:** I used Gemini and Claude as coding assistants throughout. I'm transparent about this. The implementation was AI-assisted; the architecture was not. Every system — the dopamine learning loop, SmartRouter, Ethical Core, photonic chip design, and the one-fluid robot concept — originated from my own thinking and was designed before a single line of code was written.
 
-This is not a bot account. This is not a scam.  
-**My only goal right now is to find a team.**
+**Right now I'm looking for people to build this with.**
 
 ---
 
-## What I'm building and why
+## The direction
 
-I'm not interested in building another GPT wrapper.
+I'm not building another GPT wrapper.
 
-The direction is different:
+The dominant AI trajectory — centralized, power-hungry, API-locked — is heading the wrong way. Intelligence should amplify humans. It should run on consumer hardware, learn without constant supervision, and exist as a cooperative system — not a black box owned by a handful of companies.
 
-- Intelligence that learns **autonomously**, not just from backpropagation  
-- Models that run efficiently on consumer hardware  
-- A photonic chip designed specifically for sparse expert inference  
-- Eventually: a humanoid robot (**Synapse EAP-800**) with a single fluid (LIQON) that handles energy, signaling, and cooling at the same time
+The path I'm on:
 
-I believe the current path of AI — centralized, power-hungry, locked behind APIs — leads in the wrong direction.  
-We are building a better one.
+- Sparse MoE models that run on **consumer hardware** without quality compromise
+- A **photonic chip** purpose-built for sparse expert inference
+- Autonomous learning that goes beyond backpropagation
+- Eventually: **Synapse Origin v01** — a humanoid where one circulating fluid handles energy, actuation, and cooling simultaneously
 
----
-
-## What exists right now
-
-| Project                    | Description                                      | Status          |
-|---------------------------|--------------------------------------------------|-----------------|
-| **Arche3-7B**             | Sparse MoE · 20,480 experts · consumer hardware | 🟢 Done        |
-| **Arche3-35B**            | Scaled architecture · VirtualHive · Dopamine v2 | 🔵 Architecture ready |
-| **Arche3-86B Pro**        | Lateral networks · internal vector · resonance filter | 🔵 Planned 2027 |
-| **ArchePhoton-35 (QPU-1)**| Photonic chip · MZI + GST PCM                    | 🟡 Architecture + simulation done |
-| **Synapse EAP-800**       | Humanoid robot with one-fluid architecture       | 🔵 Concept + full documentation |
-
-**Live Demo of ARCHE3-7B** → [Open in HF Spaces](https://huggingface.co/spaces/OpenSynapseLabs/arche3-7b-demo)
+**Not replacement. Amplification.**
 
 ---
 
-## Key algorithms (open part)
+## What exists, what's in progress, what's next
 
-**SmartRouter** — prevents routing collapse  
-**Dopamine Learning System** — autonomous curriculum  
-**Ethical Core** — hardwired at the architecture level
+| Project | Description | Stage |
+|---|---|---|
+| **ARCHE3-7B** | Sparse MoE · 20,480 experts · runs on consumer GPU | ✅ Built |
+| **ARCHE3-35B** | VirtualHive · Dopamine v2 · scaled architecture | 🔧 In development |
+| **ARCHE3-86B Pro** | Lateral networks · resonance filter · internal vector | 📐 Planned 2027 |
+| **ArchePhoton-35 (QPU-1)** | Photonic chip · MZI interferometers · GST PCM memory | 🔧 Architecture + simulation done |
+| **Synapse Origin v01** | One-fluid humanoid · EAP muscles · biomimetic bus | 📄 Concept documented, Phase 0 prototype scoped |
 
-Full technical details are in the architecture repository.
-
----
-
-## About the code
-
-- The **demo** is fully public and runs in the cloud.  
-- The **full model code** (Dense Core, Hierarchical MoE, HiveStore, trainer, etc.) is **not public yet**.  
-- If you are serious about joining the project, write to me and I will share the private repository directly.
-
-The algorithms are the real IP. I protect them until I have a team.
+**Live demo:** [ARCHE3-7B on HF Spaces](https://huggingface.co/spaces/OpenSynapseLabs/arche3-7b-demo)
 
 ---
 
-## What I'm looking for
+## Synapse Origin v01 — the one-fluid robot
 
-**A team.** That's it.
+Every robot today separates energy delivery, muscle actuation, and thermal management into independent systems. That's three subsystems, three weight budgets, three failure surfaces.
 
-I am not looking for investors right now.  
-I am not looking for money.  
-I am looking for people who want to **realize these ideas** and build something truly new.
+The architecture I'm developing unifies all three.
 
-My main goal is to turn this vision into reality — the autonomous intelligence, the photonic chip, and the one-fluid humanoid robot.
+**The liquid-ionic-mechanical bus** is a single circulating AQDS electrolyte that simultaneously:
+- Carries electrical energy through the body
+- Activates EAP (electroactive polymer) films that act as muscles along a 3D-printed skeleton
+- Removes heat passively as it flows
 
-Specifically needed:
-- **ML Research Engineer** — MoE, sparse training, PyTorch
-- **Photonic IC Designer** — MZI layout, GST/PCM, IMEC PDK
-- **RTL / RISC-V Engineer** — custom instructions, SparseAdamW hardware
+The skeleton is printed with fluid channels integrated directly into the bone geometry — no separate tubing. EAP films run along bones the way muscles run along tendons. Current through the fluid → electrochemical potential at the film → contraction → movement.
 
-This is pre-seed. No salary right now. If that’s a problem — I completely understand.
+One fluid. One closed loop. Three functions.
 
-If you want to build something that matters, write to me.
+The long-term energy source is **TERA** — a Dense Plasma Focus design running on p-B11 aneutronic fusion. No radioactive waste. The only byproduct is helium.
+
+**Current stage:** Full concept documented. Phase 0 prototype (printed bone + AQDS + EAP film) estimated at ~$200–400 and 2–3 months. Queued after ARCHE3-35B.
+
+---
+
+## Core algorithms (public overview)
+
+**SmartRouter** — load-balancing mechanism that prevents expert collapse in sparse MoE routing  
+**Dopamine Learning System** — curriculum that adapts without external labels or reward shaping  
+**Ethical Core** — constraints embedded at the architectural level, not applied as a post-hoc filter
+
+Full technical writeup is in the architecture repository.
+
+---
+
+## Code and access
+
+- The **demo** runs publicly in the cloud.
+- The **full codebase** — Dense Core, Hierarchical MoE, HiveStore, training infrastructure — is private for now.
+- Serious candidates get direct access to the private repository. Write to me first.
+
+The core algorithms are the IP. They stay protected until there's a team worth protecting them with.
+
+---
+
+## Who I'm looking for
+
+**A team.**
+
+Not investors. Not advisors. People who want to actually build this — who believe that creating something smarter than yourself doesn't have to mean creating something dangerous.
+
+Open roles:
+
+- **ML Research Engineer** — MoE, sparse training, PyTorch internals
+- **Photonic IC Designer** — MZI layout, GST/PCM materials, IMEC PDK experience
+- **RTL / RISC-V Engineer** — custom ISA extensions, SparseAdamW hardware acceleration
+
+Pre-seed. No salary right now. If that's a dealbreaker — completely fair.
+
+If it's not — write to me.
 
 📬 **opensynapselabs@proton.me**
 
@@ -99,17 +119,17 @@ If you want to build something that matters, write to me.
 
 ## Roadmap
 
-**Now — Summer 2026**  
-- ARCHE3-35B full training  
-- ArchePhoton-35 tape-out preparation  
+**Now — Summer 2026**
+- ARCHE3-35B full training run
+- ArchePhoton-35 tape-out preparation
 - Provisional patent filing
 
-**2027**  
-- First silicon of AP35-Ω1  
-- ARCHE3-35B running on photonic hardware
+**2027**
+- First silicon: AP35-Ω1
+- ARCHE3-35B inference on photonic hardware
 
-**2028+**  
-- Synapse EAP-800 (first one-fluid humanoid)
+**2028+**
+- Synapse Origin v01 — first physical prototype of the one-fluid humanoid
 
 ---
 
@@ -122,5 +142,7 @@ If you want to build something that matters, write to me.
 - 📬 opensynapselabs@proton.me
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18738608.svg)](https://doi.org/10.5281/zenodo.18738608)
+
+---
 
 *Built by a human. For humans.*
